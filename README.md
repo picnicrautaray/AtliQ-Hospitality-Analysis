@@ -24,9 +24,9 @@ Key Metrics Learned:
 Revenue
 RevPAR (Revenue per Available Room)
 ADR (Average Daily Rate)
-DBRN (Daily Business Return Net)
-DSRN (Daily Sales Returns Net)
-DURN (Daily Utilization Returns Net)
+DBRN (Daily Booked Room Nights)
+DSRN (Daily Sellable Room Nights)
+DURN (Daily Utilized Room Nights)
 Realization %
 Occupancy and Cancellation %
 Technical Proficiency:
