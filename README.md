@@ -1,5 +1,7 @@
 ## AtliQ-Hospitality-Analysis
 
+LIVE DASHBOARD LINK - https://www.novypro.com/project/atliq-hospitality-analysis-dashboard-power-bi
+
 Overview:
 In this repository lie the project files for the Atliq Grands Hospitality Analytics initiative. As a key player in India's hospitality sector, Atliq Grands faced hurdles in the luxury business hotel segment, and this project was crafted to tackle those challenges head-on through the integration of data-driven strategies and business intelligence.
 
