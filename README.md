@@ -1,21 +1,21 @@
 ## AtliQ-Hospitality-Analysis
 
-#Overview:
+Overview:
 In this repository lie the project files for the Atliq Grands Hospitality Analytics initiative. As a key player in India's hospitality sector, Atliq Grands faced hurdles in the luxury business hotel segment, and this project was crafted to tackle those challenges head-on through the integration of data-driven strategies and business intelligence.
 
-#Problem Statement:
+Problem Statement:
 Atliq Grands found itself grappling with diminishing market share and revenue, a consequence of fierce competition and strategic decisions. The project's core objective is to breathe new life into the business by harnessing the power of hospitality analytics to make well-informed decisions.
 
-#Project Goal:
+Project Goal:
 Our primary mission is to elevate Atliq Grands' market share and revenue within the luxury business hotel sector. The aim is not just to compete but to outshine rivals and enhance overall management decisions by employing data-driven strategies and business intelligence.
 
-#Key Achievements:
+Key Achievements:
 
 Improved Occupancy Rates: Our analytics efforts resulted in a significant upswing in hotel occupancy rates, optimizing both room utilization and overall revenue.
 Enhanced Customer Satisfaction: Through a thorough analysis of customer feedback, we identified improvement areas, leading to a notable increase in average customer satisfaction ratings.
 Optimized Revenue Pricing Strategies: Our data-driven approach allowed for dynamic pricing, yielding higher revenues and securing a more favorable market position.
 
-#Skills Gained from the Project:
+Skills Gained from the Project:
 
 Key Metrics Learned:
 
